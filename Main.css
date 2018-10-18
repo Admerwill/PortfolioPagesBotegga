@@ -1,0 +1,31 @@
+/* Overview of styles for portfolio websites */
+
+
+/* colors */
+
+$headlinefont {
+    color: #fe875d;
+    font-weight: 900;
+    font-size:  150%;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+$bodyfont {
+    color: #fe1100;
+    font-weight: 700;
+    font-size: 100%;
+    font-family: "Times New Roman", Times, serif;
+}
+
+$background {
+    background-color: #356288
+}
+
+$shadow {
+    color: #37365e
+}
+
+$highlight {
+    color: #aacfdd
+}
+
